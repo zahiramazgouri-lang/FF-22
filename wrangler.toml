@@ -1,0 +1,8 @@
+name = "legacy22-api"
+main = "src/index.js"
+compatibility_date = "2026-11-23"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "legacy22-db"
+database_id = b9b92c99-bb58-4eec-a6fb-13b7c820fda2
